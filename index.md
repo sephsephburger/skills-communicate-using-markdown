@@ -5,3 +5,7 @@ I'm trying out using markdowns & headers
 
 ``` python
 print("Hello, world!")
+```
+- [x] With code examples, you gotta indicate both start and end lines.
+- [ ] Finish homework for HAI
+- [x] Have a great weekend.
